@@ -171,7 +171,7 @@ export const SkillsInfo = [
       img: glaLogo,
       school: "Aditya Engineering College, Surampalem",
       date: "Oct 2022 - April 2026",
-      grade: "8.25 CGPA",
+      grade: "8.34 CGPA",
       desc: "Computer Science and Engineering",
       degree: "B.Tech",
      
